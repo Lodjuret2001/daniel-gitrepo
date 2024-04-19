@@ -1,0 +1,16 @@
+{
+  "name": "daniels-gitrepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "startMyServer": "node server.js",
+    "startMyServerNodemon": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
